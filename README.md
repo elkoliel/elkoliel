@@ -38,7 +38,7 @@ Projects will be added soon...
 ## Certifications & Training
 
 - **CompTIA A+ (Curriculum Completed)**  
-  Studied the full CompTIA A+ content: Hardware, Troubleshooting, OS, Networking, and Security.
+  IT, Hardware, Troubleshooting, OS, Networking, and Security.
 
 - **NTI**  
   Training focused on **Computer Vision** and AI fundamentals:  
