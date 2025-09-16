@@ -1,8 +1,7 @@
 # Greetings, welcome to my GitHub profile.  
 
 ## Introduction  
-I am deeply interested in **Cloud Computing**, **Purple Teaming in Cybersecurity**, **Networks**, and selected areas of **AI**.  
-Always learning, building, and striving for growth in both theoretical understanding and practical application.  
+I am deeply interested in **IT**, **Cloud Computing**, **Purple Teaming in Cybersecurity**, **Networks**, and selected areas of **AI**, such as **Computer Vision**. Always learning, building, and striving for growth in both theoretical understanding and practical application.  
 
 ---
 
@@ -19,7 +18,8 @@ Always learning, building, and striving for growth in both theoretical understan
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A97?style=for-the-badge&logo=virtualbox&logoColor=white" />
-
+<img alt="Bash" src="https://img.shields.io/badge/Bash-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-PS-012456?style=for-the-badge&logo=powershell&logoColor=white" />
 
 **Cyber Security:**  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -33,6 +33,9 @@ Always learning, building, and striving for growth in both theoretical understan
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)
 ![TDM-GCC](https://img.shields.io/badge/TDM--GCC-4C9A2A?style=for-the-badge&logo=gnu&logoColor=white)
 
+**Engineering & Simulation Tools:**  
+<img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img alt="Multisim" src="https://img.shields.io/badge/Multisim-00629B?style=for-the-badge&logo=ni&logoColor=white" />
 
 ---
 
@@ -50,7 +53,8 @@ Projects will be added soon...
  ![NTI](https://img.shields.io/badge/NTI-Computer%20Vision-007ACC?style=for-the-badge&)  
   - Machine Learning & Deep Learning  
   - Neural Networks  
-  - Computer Vision 
+  - Computer Vision
+  - Soft Skills*
 
  ![NVIDIA](https://img.shields.io/badge/NVIDIA-Generative%20AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
   - Generative AI
