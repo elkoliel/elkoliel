@@ -19,6 +19,10 @@ I'm <b>Yousef Mustafa</b>, student in the Faculty of AI at the Egyptian Russian 
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Cloud" src="https://img.shields.io/badge/-Cloud_Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img alt="Notepad++" src="https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
+
+
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
