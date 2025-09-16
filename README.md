@@ -24,9 +24,10 @@ Always learning, building, and striving for growth in both theoretical understan
 <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
-**Editors:**  
+**IDEs and Compilers:**  
 <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
+<img alt="TDM-GCC" src="https://img.shields.io/badge/TDM--GCC-4C9A2A?style=for-the-badge&logo=gnu&logoColor=white" />
 
 ---
 
