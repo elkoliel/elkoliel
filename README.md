@@ -40,18 +40,16 @@ Projects will be added soon...
 - **CompTIA A+ (Curriculum Completed)**  
   IT, Hardware, Troubleshooting, OS, Networking, and Security.
 
-- **NTI**  
-  Training focused on **Computer Vision** and AI fundamentals:  
+- **NTI - Computer Vision**    
   - Machine Learning & Deep Learning  
   - Neural Networks  
   - Computer Vision applications  
 
-- **ITI**  
-  Training in **Web Technologies**, including:  
+- **ITI - Web Technologies**   
   - HTML5, CSS3, JavaScript  
   - jQuery, Bootstrap  
 
-- **NVIDIA Generative AI(Self-paced)**  
+- **NVIDIA - Generative AI (Self-paced)**  
   Studied **Generative AI** concepts and Large Language Models (LLMs).  
 
 ---
