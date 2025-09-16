@@ -6,7 +6,7 @@ Always learning, building, and aiming for growth in both technical depth and pra
 
 ---
 
-## Technologies & Tools
+## Technologies and Tools
 
 **Programming & Web:**  
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
