@@ -43,14 +43,14 @@ Projects will be added soon...
 - **NTI - Computer Vision**    
   - Machine Learning & Deep Learning  
   - Neural Networks  
-  - Computer Vision applications  
+  - Computer Vision applications
+ 
+- **NVIDIA - Generative AI (Self-paced)**  
+  Studied **Generative AI** concepts and Large Language Models (LLMs).    
 
 - **ITI - Web Technologies**   
   - HTML5, CSS3, JavaScript  
-  - jQuery, Bootstrap  
-
-- **NVIDIA - Generative AI (Self-paced)**  
-  Studied **Generative AI** concepts and Large Language Models (LLMs).  
+  - jQuery, Bootstrap    
 
 ---
 
