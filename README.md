@@ -38,20 +38,20 @@ Projects will be added soon...
 ## Certifications & Training
 
 - **CompTIA A+ (Curriculum Completed)**  
-  Studied the full CompTIA A+ content: Hardware, Operating Systems, Networking, and Security.
+  Studied the full CompTIA A+ content: Hardware, Troubleshooting, OS, Networking, and Security.
 
-- **NTI (National Telecommunication Institute)**  
+- **NTI**  
   Training focused on **Computer Vision** and AI fundamentals:  
   - Machine Learning & Deep Learning  
   - Neural Networks  
   - Computer Vision applications  
 
-- **ITI (Information Technology Institute)**  
+- **ITI**  
   Training in **Web Technologies**, including:  
   - HTML5, CSS3, JavaScript  
   - jQuery, Bootstrap  
 
-- **NVIDIA (Self-paced / Training)**  
+- **NVIDIA Generative AI(Self-paced)**  
   Studied **Generative AI** concepts and Large Language Models (LLMs).  
 
 ---
