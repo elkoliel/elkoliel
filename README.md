@@ -1,5 +1,10 @@
 # Greetings, welcome to my GitHub profile.
 
+## 📊 GitHub Stats
+![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+
 ## Introduction
 I am deeply interested in **Cloud Computing**, **Purple Teaming in Cybersecurity**, **Networks**, and selected areas of **AI**.  
 Always learning, building, and striving for growth in both theoretical understanding and practical application.
