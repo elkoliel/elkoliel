@@ -8,25 +8,25 @@ Always learning, building, and aiming for growth in both technical depth and pra
 
 ## 🛠️ Technologies & Tools
 
-### Programming & Web
-<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+**Programming & Web:**  
+<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
-### Operating Systems & Tools
-<img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+**Operating Systems & Tools:**  
+<img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
-### AI Tools
-<img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+**AI Tools:**  
+<img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 
-### Editors
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img alt="Notepad++" src="https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
+**Editors:**  
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img alt="Notepad++" src="https://img.shields.io/badge/-Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black" />
 
 ---
 
