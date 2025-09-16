@@ -35,17 +35,19 @@ I'm <b>Yousef Mustafa</b>, student in the Faculty of AI at the Egyptian Russian 
 Projects will be added soon.
 </p>
 
----
+--
+<h3>Certifications & Training</h3>
 
-## Certifications & Training
-<img alt="CompTIA A+" src="https://img.shields.io/badge/CompTIA-A%2B-EA1F1F?style=for-the-badge&logo=comptia&logoColor=white" />  
-  **CompTIA A+** — Core IT Fundamentals: Hardware, Operating Systems, Networking, and Security.
+- CompTIA A+ (Curriculum Completed) 
+  Studied the full CompTIA A+ content: Hardware, Operating Systems, Networking, and Security.
 
-- <img alt="NTI" src="https://img.shields.io/badge/NTI-Training-lightgrey?style=for-the-badge" />  
-  **NTI (National Telecommunication Institute)** — Training focused on Networks & IT fundamentals.
+- NTI (National Telecommunication Institute)
+  Attended training covering Networks & IT fundamentals.
 
-- <img alt="ITI" src="https://img.shields.io/badge/ITI-Training-darkgrey?style=for-the-badge" />  
-  **ITI (Information Technology Institute)** — Training in Cybersecurity and Cloud basics.
+- ITI (Information Technology Institute)
+  Attended training in Cybersecurity and Cloud basics.
+
+
 
 ---
 
