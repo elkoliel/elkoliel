@@ -2,7 +2,7 @@
 
 <p>
 I'm <b>Yousef Mustafa</b>, student in the Faculty of AI at the Egyptian Russian University (ERU), Cyber Security department.  
-<br> I'm passionate about <b>Cloud Computing</b>, <b>Purple Teaming in Cyber Security</b>, <b>Networking</b> and <b>some parts of AI</b>, </b>.
+<br> I'm passionate about <b>Cloud Computing</b>, <b>Purple Teaming in Cyber Security</b>, <b>Networking</b>, and <b>some parts of AI</b> </b>.
 </p>
 
 ---
