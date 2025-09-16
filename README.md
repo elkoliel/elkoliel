@@ -37,6 +37,20 @@ Projects will be added soon.
 
 ---
 
+## Certifications & Training
+
+- <img alt="CompTIA A+" src="https://img.shields.io/badge/CompTIA-A%2B-EA1F1F?style=for-the-badge&logo=comptia&logoColor=white" />  
+  **CompTIA A+** — Core IT Fundamentals: Hardware, Operating Systems, Networking, and Security.
+
+- <img alt="NTI" src="https://img.shields.io/badge/NTI-Training-lightgrey?style=for-the-badge" />  
+  **NTI (National Telecommunication Institute)** — Training focused on Networks & IT fundamentals.
+
+- <img alt="ITI" src="https://img.shields.io/badge/ITI-Training-darkgrey?style=for-the-badge" />  
+  **ITI (Information Technology Institute)** — Training in Cybersecurity and Cloud basics.
+
+
+---
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://eg.linkedin.com/in/yousef-saleh-876b3a1b7?trk=people-guest_people_search-card" target="_blank">
