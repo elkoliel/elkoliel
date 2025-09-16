@@ -1,8 +1,8 @@
 # Greetings, welcome to my GitHub profile.
 
 ## Introduction
-I am deeply interested in **Cloud Computing**, **Purple Teaming in Cybersecurity**, **Networks**, and **IT**.  
-Always learning, building, and aiming for growth in both technical depth and practical application.
+I am deeply interested in **Cloud Computing**, **Purple Teaming in Cybersecurity**, **Networks**, and selected areas of **AI**.  
+Always learning, building, and striving for growth in both theoretical understanding and practical application.
 
 ---
 
