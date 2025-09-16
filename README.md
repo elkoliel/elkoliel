@@ -41,22 +41,18 @@ Projects will be added soon...
 
 ## Certifications & Training  
 
-- ![CompTIA](https://img.shields.io/badge/CompTIA%20A%2B-FF0000?style=for-the-badge&logo=compTIA&logoColor=white)  
-  **CompTIA A+ (Curriculum Completed)**  
-  IT, Hardware, Troubleshooting, OS, Networking, and Security.  
+- ![CompTIA](https://img.shields.io/badge/CompTIA%20A%2B-FF0000?style=for-the-badge&logo=compTIA&logoColor=white)   
+  **Curriculum Completed in:** IT, Hardware, Troubleshooting, OS, Networking, and Security.  
 
-- ![NTI](https://img.shields.io/badge/NTI-Computer%20Vision-007ACC?style=for-the-badge&logo=opencv&logoColor=white)  
-  **NTI - Computer Vision**  
+- ![NTI](https://img.shields.io/badge/NTI-Computer%20Vision-007ACC?style=for-the-badge&)  
   - Machine Learning & Deep Learning  
   - Neural Networks  
   - Computer Vision applications  
 
 - ![NVIDIA](https://img.shields.io/badge/NVIDIA-Generative%20AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
-  **NVIDIA - Generative AI (Self-paced)**  
   Studied **Generative AI** concepts and **Large Language Models (LLMs)**.  
 
-- ![ITI](https://img.shields.io/badge/ITI-Web%20Technologies-orange?style=for-the-badge&logo=html5&logoColor=white)  
-  **ITI - Web Technologies**  
+- ![ITI](https://img.shields.io/badge/ITI-Web%20Technologies-orange?style=for-the-badge&)  
   - HTML5, CSS3, JavaScript  
   - jQuery, Bootstrap  
 
