@@ -56,9 +56,10 @@ Projects will be added soon...
   - Computer Vision
   - Soft Skills*
 
- ![NVIDIA](https://img.shields.io/badge/NVIDIA-Generative%20AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
-  - Generative AI
+ ![NVIDIA](https://img.shields.io/badge/NVIDIA%20DLI-Generative%20AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
+  - Self-paced, in partnership with ITI 
   - Large Language Models **(LLMs)**.
+  - Generative AI
 
  ![ITI](https://img.shields.io/badge/ITI-Web%20Technologies-orange?style=for-the-badge&)  
   - HTML5, CSS3, JavaScript  
