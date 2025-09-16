@@ -14,10 +14,12 @@ Always learning, building, and striving for growth in both theoretical understan
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Operating Systems & Tools:**  
+**Operating Systems & Cloud:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A97?style=for-the-badge&logo=virtualbox&logoColor=white" />
+
 
 **Cyber Security:**  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -41,20 +43,20 @@ Projects will be added soon...
 
 ## Certifications & Training  
 
-- ![CompTIA](https://img.shields.io/badge/CompTIA%20A%2B-FF0000?style=for-the-badge&logo=compTIA&logoColor=white)   
+ ![CompTIA](https://img.shields.io/badge/CompTIA%20A%2B-FF0000?style=for-the-badge&logo=compTIA&logoColor=white)   
   - **Curriculum Completed**
   - IT, Hardware, Troubleshooting, OS, Networking, and Security.
 
-- ![NTI](https://img.shields.io/badge/NTI-Computer%20Vision-007ACC?style=for-the-badge&)  
+ ![NTI](https://img.shields.io/badge/NTI-Computer%20Vision-007ACC?style=for-the-badge&)  
   - Machine Learning & Deep Learning  
   - Neural Networks  
   - Computer Vision 
 
-- ![NVIDIA](https://img.shields.io/badge/NVIDIA-Generative%20AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
+ ![NVIDIA](https://img.shields.io/badge/NVIDIA-Generative%20AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
   - Generative AI
   - Large Language Models **(LLMs)**.
 
-- ![ITI](https://img.shields.io/badge/ITI-Web%20Technologies-orange?style=for-the-badge&)  
+ ![ITI](https://img.shields.io/badge/ITI-Web%20Technologies-orange?style=for-the-badge&)  
   - HTML5, CSS3, JavaScript  
   - jQuery, Bootstrap  
 
