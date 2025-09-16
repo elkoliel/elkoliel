@@ -1,12 +1,12 @@
-# Greetings, welcome to my README.
+# Greetings, welcome to my GitHub profile.
 
-## 👤 Introduction
+##Introduction
 I am deeply interested in **Cloud Computing**, **Purple Teaming in Cybersecurity**, **Networks**, and **IT**.  
 Always learning, building, and aiming for growth in both technical depth and practical application.
 
 ---
 
-## 🛠️ Technologies & Tools
+##Technologies & Tools
 
 **Programming & Web:**  
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -30,8 +30,8 @@ Always learning, building, and aiming for growth in both technical depth and pra
 
 ---
 
-## 📂 Projects
-🚧 *Work in progress...* 🚧
+##Projects
+Projects will be added soon... 
 
 ---
 
@@ -56,5 +56,5 @@ Always learning, building, and aiming for growth in both technical depth and pra
 
 ---
 
-## 🌐 Connect with Me
+##Connect with Me
 [LinkedIn](https://eg.linkedin.com/in/yousef-saleh-876b3a1b7?trk=people-guest_people_search-card)
