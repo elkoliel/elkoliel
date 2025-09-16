@@ -35,9 +35,6 @@ Projects will be added soon.
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/YOUSEF-GITHUB-USERNAME" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://eg.linkedin.com/in/yousef-saleh-876b3a1b7?trk=people-guest_people_search-card" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
