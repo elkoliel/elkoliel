@@ -38,8 +38,7 @@ Projects will be added soon.
 ---
 
 ## Certifications & Training
-
-- <img alt="CompTIA A+" src="https://img.shields.io/badge/CompTIA-A%2B-EA1F1F?style=for-the-badge&logo=comptia&logoColor=white" />  
+<img alt="CompTIA A+" src="https://img.shields.io/badge/CompTIA-A%2B-EA1F1F?style=for-the-badge&logo=comptia&logoColor=white" />  
   **CompTIA A+** — Core IT Fundamentals: Hardware, Operating Systems, Networking, and Security.
 
 - <img alt="NTI" src="https://img.shields.io/badge/NTI-Training-lightgrey?style=for-the-badge" />  
