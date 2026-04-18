@@ -1,13 +1,15 @@
 # Greetings, welcome to my GitHub profile.  
 
 ## Introduction  
-I am deeply interested in **IT**, **Cloud Computing**, **Purple Teaming in Cybersecurity**, **Networks**, and selected areas of **AI**, such as **Computer Vision**. Always learning, building, and striving for growth in both theoretical understanding and practical application.  
+I am deeply interested in **IT**, **Cloud Computing**, **Purple Teaming in Cybersecurity**, **Networks**, and selected areas of **AI**, such as **Computer Vision**. Always learning, building, and striving for growth in both theoretical understanding and practical application.
+Active **CTF player** focusing on sharpening my offensive and defensive skills through platforms like **Hack The Box**, **TryHackMe**, **CyberTalents**.
 
 ---
 
 ## Technologies & Tools  
 
 **Programming & Web:**  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,7 +17,7 @@ I am deeply interested in **IT**, **Cloud Computing**, **Purple Teaming in Cyber
 
 **Operating Systems & Cloud:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A97?style=for-the-badge&logo=virtualbox&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/Bash-Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -23,6 +25,10 @@ I am deeply interested in **IT**, **Cloud Computing**, **Purple Teaming in Cyber
 
 **Cyber Security:**  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-O-blue?style=for-the-badge)
+![Pentesting](https://img.shields.io/badge/Pentesting-Critical-red?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-Key-yellow?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-4E9A06?style=for-the-badge&logo=nmap&logoColor=white)
 
 **AI Tools:**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
