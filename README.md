@@ -64,10 +64,9 @@ Active **CTF player** focusing on sharpening my offensive and defensive skills t
 
  ![NVIDIA](https://img.shields.io/badge/NVIDIA%20DLI-Generative%20AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
   - Self-paced, in partnership with ITI 
-  - Large Language Models **(LLMs)**.
-  - Generative AI
-  - Deep Learning
-  - LLM Applications with Prompt Engineering
+  - Generative AI **(Certified)**
+  - Deep Learning **(Certified)**
+  - LLM Applications with Prompt Engineering **(Certified)**
 
  ![ITI](https://img.shields.io/badge/ITI-Web%20Technologies-orange?style=for-the-badge&)  
   - HTML5, CSS3, JavaScript  
