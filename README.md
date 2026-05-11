@@ -63,7 +63,7 @@ Active **CTF player** focusing on sharpening my offensive and defensive skills t
   - Soft Skills*
 
  ![NVIDIA](https://img.shields.io/badge/NVIDIA%20DLI-Generative%20AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
-  - Self-paced, in partnership with ITI 
+  - Self-paced training, in partnership with ITI 
   - Generative AI **(Certified)**
   - Deep Learning **(Certified)**
   - LLM Applications with Prompt Engineering **(Certified)**
