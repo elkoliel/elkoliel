@@ -1,4 +1,4 @@
-6# Greetings, welcome to my GitHub profile.  
+# Greetings, welcome to my GitHub profile.  
 
 ## Introduction  
 I am deeply interested in **IT**, **Cloud Computing**, **Purple Teaming in Cybersecurity**, **Networks**, and selected areas of **AI**, such as **Computer Vision**. Always learning, building, and striving for growth in both theoretical understanding and practical application.
