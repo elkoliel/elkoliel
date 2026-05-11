@@ -66,6 +66,8 @@ Active **CTF player** focusing on sharpening my offensive and defensive skills t
   - Self-paced, in partnership with ITI 
   - Large Language Models **(LLMs)**.
   - Generative AI
+  - Deep Learning
+  - LLM Applications with Prompt Engineering
 
  ![ITI](https://img.shields.io/badge/ITI-Web%20Technologies-orange?style=for-the-badge&)  
   - HTML5, CSS3, JavaScript  
