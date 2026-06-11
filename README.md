@@ -80,7 +80,8 @@ Active **CTF player** focusing on sharpening my offensive and defensive skills.
 </p>
 
 ## Projects  
-**Anomaly-IDS** 
+**ML-Driven Intrusion Detection System (IDS):**
+*Developed a Machine Learning-based Intrusion Detection System (IDS) using supervised learning for binary misuse detection. The NSL-KDD benchmark dataset was used to build a preprocessing pipeline including normalization and categorical encoding in Python. Principal Component Analysis (PCA) was applied to reduce dimensionality from 41 to 10 features, lowering computational cost while preserving variance. Two classifiers were evaluated: a Decision Tree and a Naive Bayes model enhanced with PCA. The Decision Tree achieved 97% Recall, while the PCA-enhanced Naive Bayes reached 89% Recall. This project provided hands-on experience in supervised ML pipelines, feature engineering, and the core trade-offs in classification-based IDS design.*
 
 ---
 
