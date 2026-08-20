@@ -3,60 +3,67 @@
 ## whoami  
 I am deeply interested in **IT**, **Cloud Computing**, **Purple Teaming in Cybersecurity**, **Networks**, and selected areas of **AI**, such as **Computer Vision**. Always learning, building, and striving for growth in both theoretical understanding and practical application.
 Active **CTF player** focusing on sharpening my offensive and defensive skills.
-
-                                                                                                                                            
-                                              . . .. ..  .                                                   
-                                          .. .:;+$Xx+xx$$&&$x+....                                              
-                                        x&&&++;+x++xx;+:;;;xx++x+x+: :                                          
-                                    +&&+;;;;+++;;;;;:;;+++++;+xxx;::xx.                                         
-                                   xx++++;;;;;;+;+++++++;+;+++;:;xXx;;xX                                        
-                                 :;++:+;++xxx++++++++;;+;+++++x+x;+;X;;xxx..                                    
-                               xXxx;x;++++:;::;;;;;;;;:;;+;;;;;;+;++xX+++xX;                                    
-                             .xXXx+;;;+;::::;;:.:::::;;;..:::;++x;++;;xxx+++x                                   
-                             XX:;;;;;:;::Xx+++++++x+x++xXx;::.:.:;;;+++;+xXx+;+                                 
-                           :&++++;;:;;+Xx.xXX$$$&$XxX$X$$&&$XXx;;:::;;++;x:$+X&                                 
-                           ;x+$++;+xx+Xx$$XXX$$$$$$$$$$$$$$&&&$X$xx+::;+Xx+X:x&X                                
-                          .x;$x+:;+xXx:X$$$$X$$XXXXXXXX$X$$X$$$$$$xX++:;+x;xx;$;                                
-                         .x;;x::: +$X$X$$$$$XX$XXXXXX$XXXXxXXXX$$$$$&$;:;;;x+;XX                                
-                         .$:++: +&&&XXX$XXXXX$$$$$XXXXX$$$$$XXXX$$X$&$X;;+;:&;xX                                
-                         .X;++:;&&$XXXXXX$$XXXXXXXX$$X$XXXXXXXXXX$$$$&$+:;x:+$x$                                
-                          X;;; &&$$$$$&$$XXXXX$XXXXXX$$XX$$&&$$$XXXX$&X:;:x;;X;X.                               
-                         .x::; &&&&&&&&&&&&$$$X$$$X$X$&&&&&&&&&&&&&$$$&+..+x:x:+                                
-                          .+: x&&&++;;+X&&$&&$$XXXX$$&&$X::;;::;.+&&&&&$+.:+xx+$                                
-                          .:: &            :x$$XXXXXx.               &&&X.:;+x;x.                               
-                          .. ;;:+$$&&$$XXx+.;+++xxxx;.+X&&&&&&&&&&&$xxX&&& ::+;:                                
-                          &;.&&$Xx+++x+;+xXX+++;++XXx;:     ..:.         && ;+:.                                
-                         .:.  ;+x+&$$$&$+: .+&&&&&x :+;x+$$&&&&&&&x&&&  .;.x;;;$                                
-                        ..:+;&$;.   +    x +       &&+X; .x    ;    .& &&X&; .:$                                
-                          .$&&xX&&$XxxxXX+x&: ;&&x  &$Xx++xxxXXXX&&&&& &$&&&:;$;.                               
-                          .:&&$Xx+;:::::+x$& +&&&&$ &&Xx$$;;;::;:+x+X& &$&&& ;$X.                               
-                          :.&$$X$&&&&&&X&$&X &&$X&&. &&$X$&$&&&$&x$&&.x&&$&&  &;                                
-                           .&&$XXXXXXX$&&&& &&XX$X&&x ;&&&&&&&&&&XX&  &$x$&&  &.                                
-                            . &x+xxxXXx+  .;&&XXXx$$X+.::        +$&&&$XX$&& x&.                                
-                            &&Xx$$XXXxx$&x&&&&&$&&&&&&&:+$&&&&&&$XxXX$X$XX&x.&+$                                
-                            .Xxx++++;++;;&&&$XXX$$&&&&&&;xxxX$xxxxxxxxxXX$&.&+                                  
-                             &xX+xXXxx+xx;.  :;..      .x$X;;xXXXxxxxx+XX&$ &.                                  
-                            .X$X+xxXXx$$$&&X&XxXx$&&&&&&$$&&&$:xXxxXxxxX&$;..                                   
-                            .x$X$xx$$x$$&x:    X: .. :.+&x;;:;X$:xx+x+xXX.+.                                    
-                             .:X$X$+;.:   :.:   ;   .:.. ..::..Xxxxxx+$+::&.                                    
-                             .:;+X$  ;.;+:;::X&&&&$+:.;x+:. .. :xxxx++;:::                                      
-                              ;.;$&         .:    .+:    ;+;+;+X$X+::;..;+                                      
-                              X. ;&&$XXX$&$$$$&&&&&X$X$$X&XXXXXXX.:+;::+$.                                      
-                              ++..;xx$&&&$xXXx+;+xX$XXXXXXXxX+xx;::;:;::.                                       
-                              .x...XXXXxx$+x;;.;: .;++xxx+xxXxXx+:.:;::                                         
-                               .:; .x&Xxxx+;;;::::;;+++++xXxX++x+:::.:.                                         
-                               ..;x::x&$$X$$X;;;:+xXXXXX$Xx$+++:.... .                                          
-                                . .  .Xx+;+++;::;;+XxXX$xX+;.. .: . .                                           
-                                  &: . :.X;:+;+.;;;::::::::.::+.  +&&  . ....                                   
-                            :...   &  :.+.;;:+++;;;;+.;:.:.;;   .;$&&  ::&    .                                 
-                        ..   .X&x  &&.  :..: +:.:.+:+ ::.:    :$x$XX&& ..:& .;:                                 
-                     .   +x;:;   :X&$&x    .:.:;.:;:;; :;. :+$+XXXxX&&.:::+;.+;...                              
-                  . X.;.....  .+;&&Xx$&$xX        .   :   .X+XxxX+x$&&;.:;+:.+;..   ;$                          
-               .    ......  x$xx &Xx+xxxx$$$$$x$:.::;..+X$$Xxxxx$&&&x  .::+: ;..;:.   .                         
-       .  ..  .;::::::..   ;+..: &&&x+xx++++++;x+xxxxxxxx++xx$&&&+    .::++..+.;:.;::x..                        
-      ;  ..:;:;;::::.   .+x++x::   &&&$xxXXxx++;++x++xxX$&&&&&:    .:....:;.:;.:::+ :xX: ..  
-                                                                                                                
-                         
+                                             
+                                                      ...  . ...:x+; ....                                                           
+                                                   ..;x$X$X++;+xx++$$XxXxx:....                                                     
+                                              .xX&$x;:+;++++xx;;;;:::;xx++x++x+..                                                   
+                                           +X$+:;;;;+;++;;;++;;+;++++++;xxxxx;;:x++.                                                
+                                          xx;+++x;+;;;+++;++++++;++++;+++;;+xXx+;;x&&+                                              
+                                        Xxx+x+++;;++++;;+++;;;++xx+++++;++++;;+xx+xxXx:                                             
+                                     .::++Xx;;;++;++++++++++;+;+;;+;++++++++;++;xx;;;+Xx;                                           
+                                    &;$x+;+;+++;;;;;::;;:;;;;;;;::;;;;+;;++++x+;++XX+x;$x;.                                         
+                                  $&&x;++;+;;;;;;::;;;;:::;;:;;;+;:::;;;;;;++;++;;;+xxX;x+X                                         
+                                  xx++;++;;;;;:;xX++++x++++x+xxxxxXX:;::::::;;;;+++x;+xXx+xX.                                       
+                                .Xxxxx++;;;;;+x+.xX$XX$$$$XXxxXXXXX$$&Xxx++;;;::;;+;x;x;Xx+x;                                       
+                                :X+X+x;;;;;XxxxXx+xx$X$$$$$X$XX$$$$$$&&$$$XX+x++;;+;;Xx++xxxX.                                      
+                               .X++$+;;;xX$;+xX$$$X$$$$XX$$XXX$$X$X$$$$$&$&$$XXx;+:+;Xx;+x;+X;                                      
+                               +++++++:+x+xxXXxXX$XX$XX$XXXXXXXXX$XXXXXXX$$$$X$Xxx::::x+xxx+x$                                      
+                              &x;++;;:::+$$$$XX$$$$XXX$$XXXXXXXXXXXXXXXXXXX$$$$$&&X+;;;++X++X$.                                     
+                              &x;x++. X&&$$XXXXXXXXXX$X$$$$X$XXX$$$$$$$XXXXX$XXX$$Xx;++;;;$;x+:                                     
+                              &+++;+.$&&$$$XXXXXX$$XXXXXXXXXX$XX$XXXXXXXXXXX$$$$$&$x;;;x;:x$xx.                                     
+                              &x;+;; &&$$XXX$$$$$$XXX$$XXXXXXXXXXXXX$X$$X$X$X$X$$$X+;;:;x:+X;X.                                     
+                              xX:;;.;&$$$$&&&&&$$$X$XXXXXXXX$$$$$$&&&&&&&$&&$XXX$$$X;::;X:xx;;.                                     
+                              ;x:;: $&&&&&&&&&&&&&$$&$$$$XX$$X&&&&&&&&&&&&&&&&&$&$$$x;.;x++x++.                                     
+                               x;;.;&&;.   .   ::x$X$XXXX$XX$X$x;:.      . .. :$&&$&$x::;+X+++.                                     
+                               :;; &;              ;x$XXXXxXXx+ .   ..           .&&&X;.;+x++x.                                     
+                               .:: ;;;x$$&&&$$XXXx;.;+++xxxxx;;:+X$&&&&&&&&&&&&&Xxx$&&&: +;+;X.                                     
+                                :.$&&&&$XXX$$$XXXXXx;;x+++xxXXXx+:.                  .&& +++;.&                                     
+                                x;      :;;;;:.   ;+x&&&&&&&+  :+++x$&&&&&&&$x$&&& .   +&++;;                                       
+                            ..  ;;&&&&$&X;...::.:;;.         &xx;:;.        :+++;&: $$+   ;;:+                                      
+                             . &: Xxx..::.:x:.:+x+x&; +Xxx. ;&XxXX$xx+;;;;+:;;;;;X+ &&&&&.:.+&.                                     
+                              ..;&&XX$&&XXXX$XXx+:;&  +$&&X  &$XX+::+xXxXxX$&$XXX&; &X$$&:x+X+.                                     
+                              &.;&&$$XXx;;::.::;xX$& :&&&&&& .&XxX$$x;;:::;:;+x+x& x&$&$&+ +$X.                                     
+                                .&&XXX$$$&$&$&X&X$&; &&$X$&&x x&$XXX$$$&$$$$+x$$&& &&&$$&x: &x.                                     
+                                .&&XXXXX$XXXXXX$$&& X&$Xx$X&&+  &&&&&&$$$$&&&&&&& X&XX$$&x. &;.                                     
+                                . &&&&&&&&&&&&&&&  .&&XXXxX$$$X     .;++XX.     $&&XX$$&&. +&:&                                     
+                                 &x            ;$$X&&$X$XX$X$XXxxXXXXX$xXx$&&&&&&$XXXXXX&.;$&.                                      
+                                 +&&&&&&&&&&&&&x:&&&&&$&&&&&&&&&&+x+;+;;+++++xXXX$XX$XX$& X&x                                       
+                                 .$xxxxx+xx++x+xX$x$Xx+xxx+XX$$$&$;xxxX$XXXxXxxxxxxx$XX&x:&;.                                       
+                                 .&xXX+xXxXxx+xx+:.  .+;.:.      :xXXx;+xXXxXxxxxx+XxX$$ $X:                                        
+                                 .$$xx+xxxxxxXXxXX$;$Xxx++X$$Xxx$$XX$&&$+:+xXxxX+X+XX$&;.+.                                         
+                                  :&xXXxxXXXX$&&&$$... +X+:;:;x:$&&$XXxxX&x:XxxXxX+$$$x;.                                           
+                                  XXx$Xxx$x;x+x:   ::.      :.:    ..:...:Xx:xxxxx+x;+::.                                           
+                                 ;&.x+XX$+;;:..;;;:+:.x&&&&::.;+++:+;:+;:..$+xx+xx+xx.x+.                                           
+                                  ;+.++X& . ;;;:+::.:+++;;;+;:; ;;:.   :. .x++xx;;;::;:+                                            
+                                  +$ .:$&: .      ..:+:...;;x;..  .;+x++++X$XX+:;;;:.;X                                             
+                                   +x..+&&X$xxXX$$XXxX&&&&&$xxXx$XXXXXxxXXXxx:;;;::;xX.                                             
+                                   X+:.:++xX$&&&$XX$$X;;x+XX$&$$XXXXXXxxx+xx:::;;;;.:.                                              
+                                   .+::.:xxxXXXX$Xx+;::+:::::+;+xxXxxxxxx+x++:;::;:;x                                               
+                                    :x::.:XxXx++++Xx++.;:;..x++xxx+++xXxX+xx;.::;::: .                                              
+                                    ..++. :$&XxXxx+x+x:;:;+;;x+x+++xxXXx+;x;:;::..;..                                               
+                                    .. ;;..:X&$XXXX$++;+.;++xXXxxX$$xXx;+;;..... :.                                                 
+                                       . ::.:xx+++++;+.::;;+xXxxXXxX++;.....: . ;.                                                  
+                                         ::...:.;x:;++:+.+::;;:;;:;::.:::;:.. xX&   .                                               
+                                     ..  .. .+.+;x.:;;++:;;;;;:;::;.:;.. :   .$$&    ;x    ..                                       
+                               .    :  : &&+ ..;. :x.+.:;.;;;::.:.:...:;.  x;&XX&&  ::+&  ;;  .                                     
+                            .   X&&+x+:  &X&   :;.::.;:.;; ;::;.:+:...  .+XX+XxX$&; :::+X ;;;...                                    
+                       :  :+;;+:.       &&xX&&    ...:::..;::::..::.  ;$XxxxXxXX$$$ :::;+ ;+;.::.                                   
+                      x&x:;:...:.   ;X &&XxXx$$+&x        :......   .x+;XxxXx+xX$&& ::;;+ .+;:::...:$                               
+                  ..   . ....:.  ;&++:+&X+xxxxXxXX$$$$+X;.  ..: :xXXXXXxxxxxX$&&&   .::;+ :+..:;:.. ..+                             
+             ..   :::;:::::..   +;+ ;: &&XxxX+x+++xx+++x+xX+xxxx+++++x+xxx&&&&.   ..:::;;.:;::;::;;.+.x                             
+        .     ::;:;;::..:.....;++;+:::  &&&xx+xxxx+;++;;;;;+;+;;+++xxxX&&&&    .::...::;;.;:.::::+ :xx& $.                          
+     .: . ;;+:;;;::::.:.    .;;;;;;;.::   &&&&&$XXXXXXxxxxXXXX&&&&&&&&&;    ..:.:.:.::::+:::..::;:..:;& : :;.                       
+                                                                                                     
 
 ---
 ## Technologies & Tools  
